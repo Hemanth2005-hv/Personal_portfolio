@@ -30,8 +30,10 @@ The purpose of this project is to build a strong online presence and professiona
 ## Project Structure
 
 ```bash
-personal-portfolio/
-│── personal-portfolio.html
+Hemanth_Varma/
+│── index.html
+│──style.css
+│──script.js
 │── README.md
 ```
 
